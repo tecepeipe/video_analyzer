@@ -11,8 +11,8 @@ Report based in bits per pixel rating based in Bitrate versus Resolution
 
 # Audio
 
-# INTERPRETATION GUIDE (Included in CSV Header)
-# Integrated LUFS: Average perceived loudness. Target is -23. Below -28 is "Quiet".
-# Loudness Range (LRA): Difference between quiet and loud parts. >15 is "High Dynamic Range".
-# True Peak: The highest point of the audio. If below -10, the whole file is recorded too low.
+INTERPRETATION GUIDE (Included in CSV Header)
+Integrated LUFS: Average perceived loudness. Target is -23. Below -28 is "Quiet".
+Loudness Range (LRA): Difference between quiet and loud parts. >15 is "High Dynamic Range".
+True Peak: The highest point of the audio. If below -10, the whole file is recorded too low.
 
